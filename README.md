@@ -2,7 +2,7 @@
 
 This project is a simulation of a Wireless Sensor Network (WSN) implemented in **Python**. The  analyzes network topology, connectivity, transmission costs, and energy consumption (load) in a network consisting of 100 randomly distributed nodes.
 
-## 📂 Project Structure
+## Project Structure
 
 The code is organized into **5 separate files** for better management and modularity:
 
