@@ -12,7 +12,7 @@ The code is organized into **5 separate files** for better management and modula
 4.  **`graph_logic.py`**: Contains graph algorithms (NetworkX) and mathematical calculations (calculation of `rc`, transmissions, node load).
 5.  **`experiments.py`**: Contains the assignment scenarios (Part 1 & 2) and code for generating the plots (`matplotlib`).
 
-## 🚀 Installation & Requirements
+## Installation & Requirements
 
 To run the simulation, you need Python 3 installed along with the following libraries:
 
