@@ -25,7 +25,7 @@ You can install them by running the following command:
 ```bash
 pip install networkx matplotlib numpy
 ```
-## ▶️ How to Run
+## How to Run
 
 1. Ensure all 5 files (.py) are located in the same folder.
 
@@ -37,7 +37,7 @@ pip install networkx matplotlib numpy
 python main.py
 ```
 
-## 📊 Simulation Analysis
+## Simulation Analysis
 Executing the program generates results for the following questions:
 
 * 1: Transmissions & Topology
