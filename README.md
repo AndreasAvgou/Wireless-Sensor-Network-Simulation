@@ -1,4 +1,11 @@
+<div align="center">
+  
+  <img width="960" height="650" alt="image" src="https://github.com/user-attachments/assets/121fa0dd-87c7-4619-b14a-972337278b1d" />
+
 # Wireless Sensor Network (WSN) Simulation
+  
+</div>
+
 
 This project is a simulation of a Wireless Sensor Network (WSN) implemented in **Python**. The  analyzes network topology, connectivity, transmission costs, and energy consumption (load) in a network consisting of 100 randomly distributed nodes.
 
